@@ -1,6 +1,12 @@
 # gps-map-camera-clone
 
-A GPS-enabled camera app that allows users to take photos with geolocation tags for easy location tracking.
+**Overview**: 
+I developed this app to seamlessly embed geolocation tags in photos, essential for accurate location tracking in fieldwork, surveying, and outdoor photography.
+
+**Key Features**:
+- 📸 Automatically tags photos with GPS coordinates.
+- 🌍 Displays real-time location data while capturing pictures.
+- 🚀 Built with Flutter for cross-platform compatibility and a smooth user experience.
 
 ## Getting Started
 
